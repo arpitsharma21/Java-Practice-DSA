@@ -1,5 +1,10 @@
 package OOPS;
 
+/*Print the sum, difference and product of two complex numbers by creating a
+class named 'Complex' with separate methods for each operation whose real and imaginary
+parts are entered by the user.
+*/
+
 public class Solution {
     public static void main(String[] args) {
         Complex c = new Complex(5,4);
